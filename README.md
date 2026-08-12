@@ -13,7 +13,7 @@ The goal of this project was to analyze those differences and determine how the 
 - Product differentiation
 - Market positioning
 - Quality monitoring
-- More data-driven production decisions
+- More data driven production decisions
 
 ## Dataset
 
@@ -23,7 +23,7 @@ The dataset contains **178 wine samples across three wine varieties** and includ
 - Color characteristics
 - Mineral composition
 - Natural plant compounds
-- Tannin-related compounds
+- Tannin related compounds
 - Other chemical characteristics
 
 Because many of the original variables use technical terminology, I also created a **Data Dictionary** that translates the measurements into more business-friendly language.
@@ -39,7 +39,7 @@ The dashboard includes:
 - KPI cards summarizing major quality and composition metrics
 - Wine variety filtering
 - Alcohol and acidity range filters
-- Variety-level comparison charts
+- Variety level comparison charts
 - Alcohol distribution analysis
 - Scatterplots showing relationships between important characteristics
 - Key Influencers analysis
@@ -86,9 +86,9 @@ Its distinct appearance and acidity profile provide another point of differentia
 
 Use the differences between the three varieties to create clearly differentiated product options instead of treating them as similar wines.
 
-- **Variety 1:** richer, higher-alcohol option
-- **Variety 2:** lighter, lower-alcohol option
-- **Variety 3:** stronger-color, higher-acidity option
+- **Variety 1:** richer, higher alcohol option
+- **Variety 2:** lighter, lower alcohol option
+- **Variety 3:** stronger color, higher-acidity option
 
 ### Positioning Strategy
 
@@ -102,8 +102,8 @@ Instead of applying exactly the same quality expectations to every variety, moni
 
 For example:
 
-- Variety 1 → alcohol and plant-compound profile
-- Variety 2 → lower-alcohol profile
+- Variety 1 → alcohol and plant compound profile
+- Variety 2 → lower alcohol profile
 - Variety 3 → color strength and acidity
 
 Large deviations from these expected profiles could help flag batches for further review.
